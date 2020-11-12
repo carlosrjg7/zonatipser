@@ -29,7 +29,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #BF8D28 50%, #000000 50%);
+    background: linear-gradient(135deg, #4c3810 50%, #000000 50%);
     font-family: 'PoppinsB';
     font-size: 16px;
 }
