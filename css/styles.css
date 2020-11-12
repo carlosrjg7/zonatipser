@@ -46,3 +46,13 @@ body{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+@media (max-width: 768px){
+    .elements p{
+        font-size: 1rem;
+    }
+
+    .logo{
+        max-width: 200px;
+    }
+}
